@@ -20,7 +20,7 @@ window.SITE_CONFIG = {
 
   /* 3. PRICE (shown on the sales page exactly as you type it)
         Example: "Rs. 499"  or  "INR 499"  or  "$9"                           */
-  PRICE: "[PRICE]",
+  PRICE: "[Rs. 199]",
 
   /* 4. SUPPORT E-MAIL (shown in the footer and on the thank-you page)       */
   SUPPORT_EMAIL: "[SUPPORT_EMAIL]",
