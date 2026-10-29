@@ -1,0 +1,9 @@
+{
+  "name": "100-non-negotiable-rules-for-men",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vercel eBook sales and secure download site with Razorpay",
+  "dependencies": {
+    "razorpay": "^2.9.6"
+  }
+}
